@@ -46,6 +46,7 @@ DAW: 作曲/アレンジ/ミックス/マスタリング
 使ったことのある技術
 - Unity  
 - Git / GitHub  
+- OpenCV  
 
 触れたい言語
 - PHP
