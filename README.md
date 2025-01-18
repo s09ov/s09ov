@@ -1,4 +1,4 @@
-# Nayutya  
+# Nayutya_  
 Sounds Like Meow  
 情報系の大学生です。メディア系...のはず。  
 最近ネットワーク系に傾き始めてる気がする。  
