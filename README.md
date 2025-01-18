@@ -3,12 +3,12 @@ Sounds Like Meow
 情報系の大学生です。メディア系...のはず。  
 最近ネットワーク系に傾き始めてる気がする。  
 自宅にSFP+で10GbEなLANを導入したい。  
-
+  
 
 # Links
 Twitter - [S09Ov](https://x.com/S09Ov)  
 SoundCloud - [S09Ov](https://soundcloud.com/s09ov)    
-
+  
 
 # Games  
 マイクラが好き。雰囲気が。  
@@ -20,7 +20,7 @@ VRchatやってます。
 24.10.12 Start  
 24.10.17 New User  
 24.10.31 User  
-
+  
 
 # About me
 作曲編曲・フルスタックエンジニア
@@ -62,7 +62,7 @@ DAW: 作曲/アレンジ/ミックス/マスタリング
 ## その他
 AviUtlがちょっと使えます。  
 絵は全く書けません。  
-
+  
 
 # 使用機材
 HMD: Meta Quest 3S  
