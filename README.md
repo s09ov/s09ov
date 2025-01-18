@@ -41,6 +41,8 @@ VRchatやってます。HMD: Meta Quest 3S
 
 触れたい技術
 - UE5
+- Blender
+- Live2D  
 
 ## 音楽系  
 ゆったりやってます。  
