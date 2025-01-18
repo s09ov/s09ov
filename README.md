@@ -48,6 +48,7 @@ VRchatやってます。HMD: Meta Quest 3S
 
 ## 音楽系  
 ゆったりやってます。  
+ギター/鍵盤 弾きます。  
 
 DAWs  
 2016 - 2020 → Domino  
