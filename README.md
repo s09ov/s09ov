@@ -1,6 +1,8 @@
 # Nayutya  
 Sounds Like Meow  
-情報系の大学生です。課題に追われてる。  
+情報系の大学生です。メディア系...のはず。  
+最近ネットワーク系に傾き始めてる気がする。  
+自宅にSFP+を導入したい。  
 
 # Links
 Twitter - [S09Ov](https://x.com/S09Ov)  
