@@ -60,19 +60,20 @@ PCたち
 CPU: Ryzen 7 5700X  
 GPU: RTX 3070Ti 8GB  
 RAM: 32GB  
-Disk0: WD M.2 500GB  
-Disk1: Crucial MX500 1TB  
+M.2: WD 500GB  
+SSD: MX500 1TB  
 PSU: 玄人志向 750W Gold  
 OS: Windows 11 Home  
 
 ## Server 0
 Rasberry Pi Zero 2 W  
+SD: 64GB  
 
 ## Server 1
 CPU: AMD Ryzen 5 3500  
 GPU: AMD FirePro V3900  
 RAM: 16GB  
-Disk0: 40GB  
-Disk1: WD HDD 4TB  
+SSD: 240GB  
+HDD: WD 4TB  
 PSU: 500W  
 OS: Ubuntu 22 Desktop  
