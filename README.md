@@ -13,7 +13,6 @@ SoundCloud - [S09Ov](https://soundcloud.com/s09ov)
 
 ## ゲーム
 マイクラが好き。雰囲気が。  
-自宅鯖立てたりしてます。  
 Apexやってます。s18ソロマス達成  
 原神サボリ気味  
 
