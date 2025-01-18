@@ -10,7 +10,7 @@ Twitter - [S09Ov](https://x.com/S09Ov)
 SoundCloud - [S09Ov](https://soundcloud.com/s09ov)    
 
 
-# ゲーム  
+# Games  
 マイクラが好き。雰囲気が。  
 Apexやってます。s18ソロマス達成  
 原神サボリ気味...  
