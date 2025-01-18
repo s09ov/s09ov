@@ -25,8 +25,12 @@ VRchatやってます。
 # About me
 作曲編曲・フルスタックエンジニア
 
+## 音楽系  
+ゆったりやってます。  
+楽器: ギター/キーボード  
+DAW: 作曲/アレンジ/ミックス/マスタリング  
+
 ## 情報系  
-フルスタック。電気回路は苦手。  
 使用エディタ: VScode, Vim  
 
 使える言語  
@@ -52,26 +56,18 @@ VRchatやってます。
 - Blender
 - Live2D
 - React
-- Node.js  
+- Node.js   
 
-## 音楽系  
-ゆったりやってます。  
-ギター/鍵盤 弾きます。  
-
-DAWs  
-2016 - 2020 → Domino  
-2021 - 2022 → Studio One 5 Prime  
-2023 - Now → Cubase 12 Pro  
-
-Vocals  
-NEUTRINO Kiritan  
-CeVIO AI KAFU  
+## その他
+AviUtlがちょっと使えます。  
+絵は全く書けません。  
 
 
 # 使用機材
 HMD: Meta Quest 3S  
 AIF: TASCAM US-2x2HR  
 MIC: AT2020USB+  
+DAW: Cubase 12 Pro
 
 ## Main PC
 CPU: Ryzen 7 5700X  
