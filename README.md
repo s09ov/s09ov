@@ -9,7 +9,7 @@ Twitter - [S09Ov](https://x.com/S09Ov)
 SoundCloud - [S09Ov](https://soundcloud.com/s09ov)  
 
 # About me
-あばうとみー  
+作曲編曲・フルスタックエンジニア  
 
 ## ゲーム
 マイクラが好き。雰囲気が。  
