@@ -12,7 +12,7 @@ SoundCloud - [S09Ov](https://soundcloud.com/s09ov)
 ## ゲーム
 マイクラが好き。雰囲気が。  
 自宅鯖立てたりしてます。  
-Apexやってます。危機管理マスター!!  
+Apexやってます。s18ソロマス達成  
 
 ## VRC
 VRchatやってます。HMD: Meta Quest 3S  
