@@ -23,6 +23,8 @@ VRchatやってます。HMD: Meta Quest 3S
 24.10.31 User  
 
 ## 情報系  
+フルスタック。電気回路は苦手。  
+
 使える言語  
 - Python  
 
