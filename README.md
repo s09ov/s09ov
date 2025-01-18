@@ -58,6 +58,7 @@ DAW: 作曲/アレンジ/ミックス/マスタリング
 - Live2D
 - React
 - Node.js   
+- Kubernetes  
 
 ## その他
 AviUtlがちょっと使えます。  
