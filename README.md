@@ -4,26 +4,30 @@ Sounds Like Meow
 最近ネットワーク系に傾き始めてる気がする。  
 自宅にSFP+で10GbEなLANを導入したい。  
 
+
 # Links
 Twitter - [S09Ov](https://x.com/S09Ov)  
-SoundCloud - [S09Ov](https://soundcloud.com/s09ov)  
+SoundCloud - [S09Ov](https://soundcloud.com/s09ov)    
 
-# About me
-作曲編曲・フルスタックエンジニア  
 
-## ゲーム
+# ゲーム  
 マイクラが好き。雰囲気が。  
 Apexやってます。s18ソロマス達成  
 原神サボリ気味...  
 
-## VRC
-VRchatやってます。HMD: Meta Quest 3S  
+## VRC  
+VRchatやってます。  
 24.10.12 Start  
 24.10.17 New User  
 24.10.31 User  
 
+
+# About me
+作曲編曲・フルスタックエンジニア
+
 ## 情報系  
 フルスタック。電気回路は苦手。  
+使用エディタ: VScode, Vim  
 
 使える言語  
 - Python  
@@ -53,8 +57,6 @@ VRchatやってます。HMD: Meta Quest 3S
 ## 音楽系  
 ゆったりやってます。  
 ギター/鍵盤 弾きます。  
-AIF: TASCAM US2X2HR    
-MIC: AT2020USB+  
 
 DAWs  
 2016 - 2020 → Domino  
@@ -65,9 +67,13 @@ Vocals
 NEUTRINO Kiritan  
 CeVIO AI KAFU  
 
-# PCs
-PCたち
-## Main
+
+# 使用機材
+HMD: Meta Quest 3S  
+AIF: TASCAM US-2x2HR  
+MIC: AT2020USB+  
+
+## Main PC
 CPU: Ryzen 7 5700X  
 GPU: RTX 3070Ti 8GB  
 RAM: 32GB  
