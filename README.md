@@ -3,6 +3,7 @@ Sounds Like Meow
 情報系の大学生です。メディア系...のはず。  
 最近ネットワーク系に傾き始めてる気がする。  
 自宅にSFP+で10GbEなLANを導入したい。  
+(なおVDSLなので上位ネットへのスループットは最大100Mbpsの模様)  
 
 # Links
 Twitter - [S09Ov](https://x.com/S09Ov)  
