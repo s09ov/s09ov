@@ -54,27 +54,25 @@ Vocals
 NEUTRINO Kiritan  
 CeVIO AI KAFU  
 
-# PC
-CPU: AMD Ryzen 7 5700X 3.4GHz  
-GPU: NVIDIA GeForce RTX 3070Ti 8GB  
-RAM: KLEVV DDR4-3200 32GB  
-Disk0: WD Blue NVMe M.2 SSD 500GB  
-Disk1: Crucial MX500 SATA SSD 1TB  
+# PCs
+PCたち
+## Main
+CPU: Ryzen 7 5700X  
+GPU: RTX 3070Ti 8GB  
+RAM: 32GB  
+Disk0: WD M.2 500GB  
+Disk1: Crucial MX500 1TB  
 PSU: 玄人志向 750W Gold  
 OS: Windows 11 Home  
 
-# Server 0
+## Server 0
 Rasberry Pi Zero 2 W  
-CPU: ARM Cortex-A53 1GHz  
-RAM: 512MB  
-Disk0: Kioxia SD card 64GB  
-OS: Debian 12 bookworm  
 
-# Server 1
+## Server 1
 CPU: AMD Ryzen 5 3500  
 GPU: AMD FirePro V3900  
-RAM: ? DDR4-2666 16GB  
-Disk0: ? SATA SSD 240GB  
-Disk1: WD Blue SATA HDD 4TB  
-PSU: ? 500W
+RAM: 16GB  
+Disk0: 40GB  
+Disk1: WD HDD 4TB  
+PSU: 500W  
 OS: Ubuntu 22 Desktop  
