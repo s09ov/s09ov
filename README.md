@@ -42,7 +42,9 @@ VRchatやってます。HMD: Meta Quest 3S
 触れたい技術
 - UE5
 - Blender
-- Live2D  
+- Live2D
+- React
+- Node.js  
 
 ## 音楽系  
 ゆったりやってます。  
