@@ -11,44 +11,43 @@ SoundCloud - [S09Ov](https://soundcloud.com/s09ov)
   
 
 # Games  
-マイクラが好き。  
-Apexやってます。s18ソロマス達成  
-原神サボリ気味...  
+### Minecraft  
+一番好きなゲーム。  
+自宅鯖運用してます。  
 
-## VRC  
-VRchatやってます。  
-24.10.12 Start  
-24.10.17 New User  
-24.10.31 User  
+### Apex  
+FPSの中で一番好き。  
+s06　Start  
+s08　プラチナ　到達  
+s12　ダイヤ　　到達  
+s18　マスター　到達  
+
+### VRC  
+初心者です。  
+24.10.12　Start  
+24.10.17　New User  
+24.10.31　User  
   
 
 # About me
-作曲編曲・フルスタックエンジニア
+作曲やプログラミングなど  
 
-## 音楽系  
+### 音楽系  
 ゆったりやってます。  
 楽器: ギター/キーボード  
 DAW: 作曲/アレンジ/ミックス/マスタリング  
 
-## 情報系  
-使用エディタ: VScode, Vim  
+### 情報系  
+使える言語/技術  
+![langsICanUse](https://skillicons.dev/icons?theme=dark&perline=7&i=python,c,java,_,_,_,_,git,github)  
 
-使える言語  
-![langsICanUse](https://skillicons.dev/icons?theme=dark&perline=4&i=python)  
+使ったことのある言語/技術  
+![langsIveUsed](https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,cs,html,css,js,sqlite,_,unity,opencv,androidstudio,docker,aws)  
 
-使ったことのある言語  
-![langsIveUsed](https://skillicons.dev/icons?theme=dark&perline=4&i=c,cpp,cs,java,html,css,js,sqlite)  
+触れたい言語/技術  
+![langsIdLike2Use](https://skillicons.dev/icons?theme=dark&perline=7&i=php,rust,go,ts,_,_,_,unrealengine,blender,react,kubernetes)  
 
-使ったことのある技術  
-![techsIveUsed](https://skillicons.dev/icons?theme=dark&perline=4&i=unity,git,github,opencv)  
-
-触れたい言語  
-![langsIdLike2Use](https://skillicons.dev/icons?theme=dark&perline=4&i=php,rust)  
-
-触れたい技術  
-![langsIdLike2Use](https://skillicons.dev/icons?theme=dark&perline=4&i=unrealengine,blender,react,nodejs,kubernetes)  
-
-## その他
+### その他
 AviUtlがちょっと使えます。  
 絵は全く書けません。  
   
@@ -59,7 +58,7 @@ AIF: TASCAM US-2x2HR
 MIC: AT2020USB+  
 DAW: Cubase 12 Pro
 
-## Main PC
+### Main PC
 CPU: Ryzen 7 5700X  
 GPU: RTX 3070Ti 8GB  
 RAM: 32GB  
@@ -68,11 +67,11 @@ SSD: MX500 1TB
 PSU: 玄人志向 750W Gold  
 OS: Windows 11 Home  
 
-## Server 0
+### Server 0
 Rasberry Pi Zero 2 W  
 SD: 64GB  
 
-## Server 1
+### Server 1
 CPU: AMD Ryzen 5 3500  
 GPU: AMD FirePro V3900  
 RAM: 16GB  
