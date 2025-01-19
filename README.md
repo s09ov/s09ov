@@ -11,7 +11,7 @@ SoundCloud - [S09Ov](https://soundcloud.com/s09ov)
   
 
 # Games  
-マイクラが好き。雰囲気が。  
+マイクラが好き。  
 Apexやってます。s18ソロマス達成  
 原神サボリ気味...  
 
@@ -34,31 +34,19 @@ DAW: 作曲/アレンジ/ミックス/マスタリング
 使用エディタ: VScode, Vim  
 
 使える言語  
-- Python  
+![langsICanUse](https://skillicons.dev/icons?theme=dark&perline=4&i=python)  
 
 使ったことのある言語  
-- C / C++ / C#
-- Java
-- HTML / CSS / JavaScript
-- Shell / PowerShell
-- SQL  
+![langsIveUsed](https://skillicons.dev/icons?theme=dark&perline=4&i=c,cpp,cs,java,html,css,js,sqlite)  
 
-使ったことのある技術
-- Unity  
-- Git / GitHub  
-- OpenCV  
+使ったことのある技術  
+![techsIveUsed](https://skillicons.dev/icons?theme=dark&perline=4&i=unity,git,github,opencv)  
 
-触れたい言語
-- PHP
-- Rust
+触れたい言語  
+![langsIdLike2Use](https://skillicons.dev/icons?theme=dark&perline=4&i=php,rust)  
 
-触れたい技術
-- UE5
-- Blender
-- Live2D
-- React
-- Node.js   
-- Kubernetes  
+触れたい技術  
+![langsIdLike2Use](https://skillicons.dev/icons?theme=dark&perline=4&i=unrealengine,blender,react,nodejs,kubernetes)  
 
 ## その他
 AviUtlがちょっと使えます。  
