@@ -67,11 +67,11 @@ SSD: MX500 1TB
 PSU: 750W Gold  
 OS: Windows 11 Home  
 
-### Server 0
+### Server 0 (rsp)
 Rasberry Pi Zero 2 W  
 SD: 64GB  
 
-### Server 1
+### Server 1 (ub)
 CPU: Ryzen 5 3500  
 GPU: FirePro V3900  
 RAM: 16GB  
