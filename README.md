@@ -64,7 +64,7 @@ GPU: RTX 3070Ti 8GB
 RAM: 32GB  
 M.2: WD 500GB  
 SSD: MX500 1TB  
-PSU: 玄人志向 750W Gold  
+PSU: 750W Gold  
 OS: Windows 11 Home  
 
 ### Server 0
@@ -72,8 +72,8 @@ Rasberry Pi Zero 2 W
 SD: 64GB  
 
 ### Server 1
-CPU: AMD Ryzen 5 3500  
-GPU: AMD FirePro V3900  
+CPU: Ryzen 5 3500  
+GPU: FirePro V3900  
 RAM: 16GB  
 SSD: 240GB  
 HDD: WD 4TB  
