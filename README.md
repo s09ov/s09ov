@@ -8,6 +8,7 @@ Sounds Like Meow
 # Links
 Twitter - [S09Ov](https://x.com/S09Ov)  
 SoundCloud - [S09Ov](https://soundcloud.com/s09ov)    
+Note - [Nayutya_](https://note.com/nayutya_)  
   
 
 # Games  
