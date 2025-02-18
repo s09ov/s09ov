@@ -54,6 +54,7 @@ AviUtlがちょっと使えます。
   
 
 # 使用機材
+Geartics - [S09Ov](https://www.geartics.com/S09Ov)  
 HMD: Meta Quest 3S  
 AIF: TASCAM US-2x2HR  
 MIC: AT2020USB+  
