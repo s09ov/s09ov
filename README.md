@@ -1,37 +1,21 @@
 # Nayutya_  
-Sounds Like Meow  
-情報系の大学生です。メディア系...のはず。  
-最近ネットワーク系に傾き始めてる気がする。  
-自宅にSFP+で10GbEなLANを導入したい。  
+おはようございます。なゆです。  
   
 
 # Links
 Twitter - [S09Ov](https://x.com/S09Ov)  
 SoundCloud - [S09Ov](https://soundcloud.com/s09ov)    
 Note - [Nayutya_](https://note.com/nayutya_)  
-  
 
-# Games  
-### Minecraft  
-一番好きなゲーム。  
-自宅鯖運用してます。  
-
-### Apex  
-FPSの中で一番好き。  
-s06　Start  
-s08　プラチナ　到達  
-s12　ダイヤ　　到達  
-s18　マスター　到達  
-
-### VRC  
-初心者です。  
-24.10.12　Start  
-24.10.17　New User  
-24.10.31　User  
-  
 
 # About me
-作曲やプログラミングなど  
+情報系の大学生です。  
+プログラミングと作曲をします。  
+
+情報系と音楽系をうまく組み合わせて何かできたらおもしろいかなぁ。  
+...と思いながら勉強してたら、インフラの方にも興味が湧いてきました。  
+自宅にSFP+で10GbEなLANを導入したい。  
+
 
 ### 音楽系  
 ゆったりやってます。  
