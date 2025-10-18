@@ -27,10 +27,10 @@ DAW: 作曲/アレンジ/ミックス/マスタリング
 ![langsICanUse](https://skillicons.dev/icons?theme=dark&perline=7&i=python,c,java,_,_,_,_,git,github)  
 
 使ったことのある言語/技術  
-![langsIveUsed](https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,cs,html,css,js,sqlite,_,unity,opencv,androidstudio,docker,aws)  
+![langsIveUsed](https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,cs,html,css,js,sqlite,dart,unity,unrealengine,opencv,androidstudio,docker,aws,react,flutter)  
 
 触れたい言語/技術  
-![langsIdLike2Use](https://skillicons.dev/icons?theme=dark&perline=7&i=php,rust,go,ts,_,_,_,unrealengine,blender,react,kubernetes)  
+![langsIdLike2Use](https://skillicons.dev/icons?theme=dark&perline=7&i=php,rust,go,ts,_,_,_,blender,kubernetes)  
 
 ### その他
 AviUtlがちょっと使えます。  
@@ -59,9 +59,16 @@ SD: 64GB
 
 ### Server 1 (ub)
 CPU: AMD Ryzen 5 3500 6C6T  
-GPU: AMD FirePro V3900  
+GPU: MSI MECH Radeon RX 6600 XT  
 RAM: DDR4 2666MHz 16GB  
 SSD: 240GB  
 HDD: WD 4TB  
 PSU: 500W  
 OS: Ubuntu 22 Desktop  
+
+### Server 2 (prx)
+CPU: Celeron G5925  
+RAM: DDR4 4GB  
+SSD: 128GB  
+PSU: 500W  
+OS: Proxmox VE 9.0  
