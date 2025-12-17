@@ -44,31 +44,48 @@ AIF: TASCAM US-2x2HR
 MIC: AT2020USB+  
 DAW: Cubase 12 Pro
 
-### Main PC
-CPU: AMD Ryzen 7 5700X 8C16T  
-GPU: ASUS TUF Gaming RTX 3070Ti 8GB  
-RAM: DDR4 3200MHz 32GB  
-M.2: WD Blue 500GB  
-SSD: Crucial MX500 1TB  
-PSU: 玄人志向 750W Bronze  
-OS: Windows 11 Home  
+## > Main PC
+開発・ゲーム・GPU計算用
+| Component | Specification |
+|----------|---------------|
+| CPU | AMD Ryzen 7 5700X (8C / 16T) |
+| GPU | ASUS TUF Gaming RTX 3070 Ti 8GB |
+| RAM | DDR4 3200MHz 32GB |
+| Motherboard | ASUS PRIME B450M-A |
+| M.2 SSD | Samsung 990 EVO Plus 2TB |
+| SATA SSD | Crucial MX500 1TB |
+| PSU | ASRock Challenger 750W Gold |
+| OS | Windows 11 Home |
 
-### Server 0 (rsp)
-Raspberry Pi Zero 2 W  
-SD: 64GB  
+---
+## > Server 0 — `rsp`
+Home IoT制御、サーバー電源管理用
+| Component | Specification |
+|----------|---------------|
+| Device | Raspberry Pi Zero 2 W |
+| Storage | microSD 64GB |
 
-### Server 1 (ub)
-CPU: AMD Ryzen 5 3500 6C6T  
-GPU: MSI MECH Radeon RX 6600 XT  
-RAM: DDR4 2666MHz 16GB  
-SSD: 240GB  
-HDD: WD 4TB  
-PSU: 500W  
-OS: Ubuntu 22 Desktop  
+---
+## > Server 1 — `ub`
+CPU・GPU計算用サーバー
+| Component | Specification |
+|----------|---------------|
+| CPU | AMD Ryzen 5 3500 (6C / 6T) |
+| GPU | MSI MECH Radeon RX 6600 XT |
+| RAM | DDR4 2666MHz 16GB |
+| Motherboard | MSI A520M-A PRO |
+| M.2 SSD | WD Blue 500GB |
+| HDD | WD 4TB |
+| PSU | 500W |
+| OS | Ubuntu 22 Desktop |
 
-### Server 2 (prx)
-CPU: Celeron G5925  
-RAM: DDR4 4GB  
-SSD: 128GB  
-PSU: 500W  
-OS: Proxmox VE 9.0  
+---
+## > Lab 0 — `prx`
+検証環境・実験用マシン
+| Component | Specification |
+|----------|---------------|
+| CPU | Intel Celeron G5925 |
+| RAM | DDR4 4GB |
+| SSD | 128GB |
+| PSU | 500W |
+| OS | Proxmox VE 9.0 |
